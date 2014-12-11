@@ -8,8 +8,8 @@
 
 ## Usage
 
-> **クライアントサイドJS・サーバサイド間の設定の共有について**
-> [http://]()
+> **クライアントサイドJS・サーバサイド間の設定の共有について**  
+> [http://qiita.com/axross/items/3bd266602dd0862ae42a](http://qiita.com/axross/items/3bd266602dd0862ae42a)
 
 ```
 npm run build
