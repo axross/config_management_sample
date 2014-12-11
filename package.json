@@ -1,0 +1,20 @@
+{
+  "name": "config_managiment_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/app.js",
+  "scripts": {
+    "build": "$(npm bin)/gulp build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "extend": "^2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-browserify": "^0.5.0",
+    "gulp-rename": "^1.2.0"
+  }
+}
